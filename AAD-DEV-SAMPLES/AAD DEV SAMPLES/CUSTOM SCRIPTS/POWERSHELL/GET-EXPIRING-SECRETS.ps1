@@ -1,7 +1,7 @@
 ﻿# Configuration
-$ClientId = "27b8eb81-e1c8-4152-8928-29f3c42ba07d" 
-$TenantId = "beb63dc3-dd0c-40d6-b1d2-db518fd2a8c4" 
-$ClientSecret = "gdj8Q~jRiy~rcP-~--L4fQRRWyK1flay4XveWc_J"  
+$ClientId = "xxxxxxxxxxxxx" 
+$TenantId = "xxxxxxxxxxxx" 
+$ClientSecret = "xxxxxxxxxxx"  
 
 # Convert the client secret to a secure string
 $ClientSecretPass = ConvertTo-SecureString -String $ClientSecret -AsPlainText -Force
